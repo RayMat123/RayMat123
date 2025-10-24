@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hey there! 👋<br><br>I'm a Computer Science student with a solid foundation in C++, OOP principles, and relational databases using MySQL. 🚀<br><br>📚 **Currently learning:** Data Structures and Algorithms in C++<br>🐍 **Up next:** Deepening my Python skills<br>🤖 **Passions:** Machine Learning and Robotics<br><br>When I'm not immersed in code, you'll find me exploring the latest tech trends or working on my fitness goals. 💪 I'm always excited to tackle new and challenging projects, so let's collaborate and build something amazing together! 🌟<br><br>Feel free to reach out—I'm just a message away! ✉️
+Hey there! 👋<br><br>I'm a Computer Science student with a solid foundation in Python, C++, OOP principles, and relational databases using MySQL. 🚀<br><br>📚 **Currently learning:** Machine Learning | Robotics | Agentic AI<br>🐍 **Up next:** Deepening my Python skills<br>🤖 **Passions:** Machine Learning and Robotics<br><br>When I'm not immersed in code, you'll find me exploring the latest tech trends or working on my fitness goals. 💪 I'm always excited to tackle new and challenging projects, so let's collaborate and build something amazing together! 🌟<br><br>Feel free to reach out—I'm just a message away! ✉️
 
 
 ## 🌐 Socials:
